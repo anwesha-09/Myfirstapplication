@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/qw"
+    tools:context=".pagemiddle">
+
+    <ImageView
+        android:layout_width="423dp"
+        android:layout_height="279dp"
+        android:background="@drawable/U"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="-16dp" />
+
+    <ImageView
+        android:layout_width="163dp"
+        android:layout_height="191dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/jklo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.133"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="156dp"
+        android:layout_height="208dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/uy"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.466"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="197dp"
+        android:layout_height="236dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/uiop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.94"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ImageView
+        android:layout_width="423dp"
+        android:layout_height="426dp"
+        android:background="@drawable/trk"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:layout_width="215dp"
+        android:layout_height="86dp"
+        android:layout_marginStart="216dp"
+        android:layout_marginLeft="216dp"
+        android:background="@drawable/ll"
+        android:text="SHUFFLE PLAY"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.327" />
+
+    <ImageView
+        android:layout_width="173dp"
+        android:layout_height="166dp"
+        android:layout_marginBottom="252dp"
+        android:background="@drawable/o"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="167dp"
+        android:layout_height="166dp"
+        android:layout_marginBottom="252dp"
+        android:background="@drawable/r"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.833"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="164dp"
+        android:layout_height="156dp"
+        android:layout_marginBottom="88dp"
+        android:background="@drawable/y"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.805"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="168dp"
+        android:layout_height="154dp"
+        android:layout_marginBottom="88dp"
+        android:background="@drawable/q"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.117"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:layout_width="197dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="236dp"
+        android:layout_marginLeft="236dp"
+        android:background="@drawable/ghj"
+        android:text="MOOD BOOSTER"
+        android:textColor="#FAF8F8"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.434" />
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="80dp"
+        android:background="@drawable/gg"
+        android:text="RELAX"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.434" />
+
+    <ImageView
+        android:layout_width="434dp"
+        android:layout_height="76dp"
+        android:background="@drawable/N"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="434dp"
+        android:layout_height="76dp"
+        android:background="@drawable/J"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
